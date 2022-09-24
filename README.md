@@ -2,7 +2,7 @@
 
 * "Hello World" Demo
 
-    [ 1 ] 基于KNN的鸢尾花数据集分类 -->[lris.py](https://github.com/whitejoce/DeepLearning/blob/main/Code/lris.py) 
+    [ 1 ] 基于鸢尾花数据集的KNN分类 -->[lris.py](https://github.com/whitejoce/DeepLearning/blob/main/Code/lris.py) 
         
      > [=] 相关文章：
      >
