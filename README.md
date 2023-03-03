@@ -11,3 +11,14 @@
      > [代码详解 (CSDN)](https://blog.csdn.net/hqllqh/article/details/108914072)
     
     ***
+    
+ * "MNIST" Demo
+ 
+    [ 2 ] 识别手写数字 -->[mnist.py](https://github.com/whitejoce/DeepLearning/blob/main/Code/mnist.py) 
+    
+   ***
+ 
+  * "Fashion-MNIST" Demo
+  
+    [ 3 ] 识别时尚和服装类图片 -->[fashion_mnist.py](https://github.com/whitejoce/DeepLearning/blob/main/Code/fashion_mnist.py)
+ 
