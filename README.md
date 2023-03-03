@@ -21,4 +21,6 @@
   * "Fashion-MNIST" Demo
   
     [ 3 ] 识别时尚和服装类图片 -->[fashion_mnist.py](https://github.com/whitejoce/DeepLearning/blob/main/Code/fashion_mnist.py)
+    
+   ***
  
